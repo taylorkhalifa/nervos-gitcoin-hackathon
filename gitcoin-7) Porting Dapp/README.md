@@ -3,6 +3,8 @@
 ## 📷 Screenshots && Video
 - <a href="https://youtu.be/iO081W0vut0"> GO TO PROJECT VIDEO </a>
 <img src="https://github.com/taylorkhalifa/nervos-gitcoin-hackathon/blob/master/gitcoin-7)%20Porting%20Dapp/movie.png"/>
+<hr/>
+<img src="https://github.com/taylorkhalifa/nervos-gitcoin-hackathon/blob/master/gitcoin-7)%20Porting%20Dapp/movie2.png"/>
 
 ## 🔗 Link to the GitHub Repo
 - <a href="https://github.com/taylorkhalifa/nervos-random-movie-task7"> GO TO GITHUB REPO </a>
